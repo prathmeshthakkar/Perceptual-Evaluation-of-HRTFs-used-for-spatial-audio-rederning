@@ -1,1 +1,4 @@
 
+This folder must contain all the stimuli in .wav format for the listening test. However, for the purpose of assessment, the stimuli used had to be uploaded to a cloud storage due to their large file size. 
+
+These files can be accessed at: https://www.dropbox.com/sh/09kljx3ijna4g8s/AAAgKouEHvjPRjB_rCVkf0R1a?dl=0
