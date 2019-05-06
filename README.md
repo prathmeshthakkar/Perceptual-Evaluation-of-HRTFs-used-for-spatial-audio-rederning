@@ -4,3 +4,6 @@ MUSHRA Type test using MaxMSP and MIRA interfaces. This repository was created f
 Users are free to use these resources as they please so long as they comply with the terms of the MIT license. 
 
 Additionally, users be informed that this work is based on the orignial Max patch created by Copyright (c) 2016 Institute of Sound Recording. Some original resources from the parent repository have been uploaded in this repository, however, the full original collection is only available in the external repository: IoSR-Surrey/MUSHRA-MaxMSP.
+
+# Author
+Prathmesh Thakkar 
